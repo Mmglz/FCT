@@ -1,0 +1,29 @@
+main {
+  width: 50%;
+  margin: auto;
+  align-content: center;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.listas{
+  display: inline-flex;
+  margin-top: 60px;
+}
+
+section ul, section ol{
+margin-left: 40px;
+}
+
+ul ul{
+  margin-left: 0px;
+}
+
+.listas-citas{
+
+  margin-top: 60px;
+}

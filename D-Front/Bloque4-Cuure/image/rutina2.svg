@@ -1,0 +1,20 @@
+<svg width="63" height="76" viewBox="0 0 63 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M38.0753 74.6309L62 74.6309L62 29.6703" stroke="#EF7A1A" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M24.9247 1H1V45.9606" stroke="#EF7A1A" stroke-width="1.5" stroke-linecap="round"/>
+<g clip-path="url(#clip0_446_1051)">
+<path d="M16.9219 27.8474L25.6576 26.5352" stroke="#EC722A" stroke-width="1.8" stroke-miterlimit="10"/>
+<path d="M28.1139 33.8615L27.81 33.7201C26.7721 33.2375 25.5608 33.7363 25.1045 34.8343L23.2519 39.2927C22.7956 40.3907 23.2671 41.6721 24.305 42.1548L24.6089 42.2961C25.6469 42.7788 26.8581 42.28 27.3144 41.182L29.1671 36.7235C29.6233 35.6255 29.1518 34.3441 28.1139 33.8615Z" stroke="#EC722A" stroke-width="1.37" stroke-miterlimit="10"/>
+<path d="M37.6397 32.0131L37.4439 32.2967C36.7751 33.2652 36.9751 34.6239 37.8906 35.3314L41.615 38.2098C42.5305 38.9173 43.8149 38.7058 44.4837 37.7373L44.6795 37.4537C45.3484 36.4852 45.1484 35.1265 44.2329 34.419L40.5084 31.5406C39.5929 30.8331 38.3086 31.0446 37.6397 32.0131Z" stroke="#EC722A" stroke-width="1.37" stroke-miterlimit="10"/>
+<path d="M42.0457 32.7363L39.687 36.7193" stroke="#EC722A" stroke-width="1.37" stroke-miterlimit="10"/>
+<path d="M30.8204 52.1986C32.3547 52.1986 33.5984 50.9821 33.5984 49.4816C33.5984 47.9811 32.3547 46.7646 30.8204 46.7646C29.2862 46.7646 28.0425 47.9811 28.0425 49.4816C28.0425 50.9821 29.2862 52.1986 30.8204 52.1986Z" stroke="#EC722A" stroke-width="1.22" stroke-miterlimit="10"/>
+<path d="M29.2915 51.7547L32.4888 47.3188" stroke="#EC722A" stroke-width="1.22" stroke-miterlimit="10"/>
+<path d="M42.4689 47.547C43.1748 46.4132 41.9571 44.2469 39.7491 42.7085C37.541 41.1701 35.1789 40.8421 34.473 41.9759C33.7671 43.1097 34.9848 45.2759 37.1928 46.8144C39.4008 48.3528 41.763 48.6808 42.4689 47.547Z" stroke="#EC722A" stroke-width="1.22" stroke-miterlimit="10"/>
+<path d="M39.7486 42.7168L37.1978 46.82" stroke="#EC722A" stroke-width="1.22" stroke-miterlimit="10"/>
+<path d="M15.5327 21.5728C16.1966 21.6929 44.9634 16.564 44.9634 16.564L50.4582 53.7419L21.2896 58.4365L15.5327 21.5728Z" stroke="#EC722A" stroke-width="1.22" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_446_1051">
+<rect width="36" height="43" fill="white" transform="translate(15 16)"/>
+</clipPath>
+</defs>
+</svg>

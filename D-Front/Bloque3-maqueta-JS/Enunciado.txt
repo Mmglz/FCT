@@ -1,0 +1,6 @@
+Usando la base del formulario creado en el apartado 3 de Maqueta, cread por JavaScript todo el formulario y añadirlo al DOM. Introducid todos los atributos necesarios incluido las validaciones HTML5.
+
+Después de crear esta estructura añadid estas clases por JS:
+
+Todos los inputs deben tener la clase "input".
+Todos los labels deben tener la clase "label"

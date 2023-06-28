@@ -1,0 +1,5 @@
+Usando la base del formulario creado en el apartado 3 de Maqueta, validad por JS todos los campos además de la validación típica de html5. En el campo de "Código Postal" vamos a hacer esta validación extra pero para no hacerla muy tediosa vamos a hacer 1 solo caso:
+
+Si Provincia es "Sevilla" y Localidad es "Dos Hermanas" Los únicos códigos postales válidos son 1000, 1001, 1002 y 1003
+
+Todos los errores deben marcar el input erróneo con un bordeado rojo simple.

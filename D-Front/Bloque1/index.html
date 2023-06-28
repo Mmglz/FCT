@@ -1,0 +1,53 @@
+<!-- Bloque 1
+1.- Crea una estructura básica HTML
+2.- Dentro de la estructura anterior, utilizando etiquetas semánticas, crea una estrutura con cabecera, menú de navegación, Barra lateral, 3 artículos y pie de página.
+3.- Crea un archivo css y rellena cada elemento de un color diferente y con una separación de 20px entre cada una de ellas
+-->
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" content="Ejercicio del bloque 1" />
+    <title>Ejercicio Bloque 1</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Cabecera</h1>
+      <nav>
+        <a href="#index">Inicio</a>
+        <a href="#">Noticias</a>
+        <a href="#">Galeria</a>
+        <a href="#">Contacto</a>
+      </nav>
+    </header>
+    <main>
+      <section class="articulos">
+        <article>
+          <h2>Artículo 1</h2>
+          <p>Desarrollo del artículo 1</p>
+        </article>
+        <article>
+          <h2>Artículo 2</h2>
+          <p>Desarrollo del artículo 2</p>
+        </article>
+        <article>
+          <h2>Artículo 3</h2>
+          <p>Desarrollo del artículo 3</p>
+        </article>
+      </section>
+      <aside class="menu-lateral">
+        <h2>Barra lateral</h2>
+        <ul>
+          <li><a href="#">Enlace 1</a></li>
+          <li><a href="#">Enlace 2</a></li>
+          <li><a href="#">Enlace 3</a></li>
+        </ul>
+      </aside>
+    </main>
+    <footer>
+      <p>Pie de página &copy</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,36 @@
+Ejercicio 1:
+
+Transforma este texto en un array dividido por tamaños de palabra. Usa control de flujo. Ignorad los caracteres especiales como retorno de carro. Para didivir el array se recomienda el método de String split.
+Por ejemplo, el string ‘Hola soy Lucia’ se convertiría en 
+[ [ ], [ ]  , [ ‘soy’ ] , [ ‘Hola’], [ ‘ Lucía’ ] ] 
+
+const texto = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis erat at metus imperdiet mattis vitae a massa. Nullam sit amet nisl fermentum, congue quam sed, posuere quam. In non volutpat orci. Duis arcu tortor, eleifend porta nunc eget, iaculis vestibulum orci. Nam fringilla tincidunt tellus, non rutrum dolor fringilla ac.  Suspendisse potenti. Duis laoreet euismod nunc, non lobortis mauris tempus quis. Sed quis elementum felis, nec porta leo. Quisque quis ante quis metus rhoncus tristique. Integer viverra enim nec ex feugiat auctor. Vestibulum molestie metus eu nibh vulputate semper  Proin vestibulum luctus lectus. Aliquam accumsan ex in tortor efficitur accumsan. Praesent sed leo sapien. Donec at libero tincidunt, pretium elit ut, cursus sapien. Proin ac nibh aliquam, ultrices diam sagittis, sagittis ante. Vestibulum viverra molestie enim non sodales. Pellentesque sit amet blandit orci.  Cras a elementum mi, tempus bibendum velit. Quisque posuere purus eget ex consequat vehicula. Aliquam purus arcu, aliquam ac lectus vel, porta sodales lacus. Fusce eu diam sit amet felis dapibus consequat. Ut ut pellentesque dui. Suspendisse eget dolor ullamcorper, facilisis sapien id, sodales massa. Aliquam erat volutpat. Nam iaculis vehicula justo, vel ultricies tellus dignissim nec. Quisque a mi lacus. Mauris fermentum erat sit amet sem porta dignissim. Curabitur iaculis vitae turpis fringilla finibus. Fusce mollis ullamcorper neque, ac luctus dolor sodales eget.'
+
+Ejercicio 2:
+
+Teniendo un array de objetos todos con las mismas propiedades cread una función que devuelve un array con todos los valores de la propiedad que se pase por un parámetro.
+Hacedlo tanto con métodos básicos de array como con map.
+
+Por ejemplo:
+Const arrayObjetos = [ { nombre: ‘Juanma’, apellido1: ‘Cano’ }, 
+             { nombre: ‘David, apellido1: ‘Quiñones } ]
+Si a la función pasamos el valor nombre se nos devolverá el array
+[‘Juanma’, ‘David’]
+
+Ejercicio 3:
+
+Tomando 2 fechas en formato DD/MM/YYYY calculad la cantidad de días entre ambas. 
+
+Ejercicio 4:
+
+Crea una copia y ordena este array por Nombre seguido de Edad y por último Apellido.
+
+let personas = [
+  { nombre: "Juanma", apellido: "Cano", edad: 22 },
+  { nombre: "Juanma", apellido: "Armario", edad: 45 },
+  { nombre: "David", apellido: "Quiñones", edad: 18 },
+  { nombre: "Alberto", apellido: "Rus", edad: 18 },
+  { nombre: "Alberto", apellido: "Rus", edad: 24 },
+  { nombre: "Alberto", apellido: "Rodriguez", edad: 80 },
+];	
+
